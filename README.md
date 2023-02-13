@@ -10,6 +10,7 @@ This is the repository the enclosure used in the [Laser4DIY project](http://www.
 + 3dprinting                   directory with STL files for 3d printing
 + lasercut                     directory with dxf files for (metal) laser cutting
 | + 1mm_steel                  to be cut in 1mm steel
+| | + laserchamber*            for the cover of the laser source
 | | + laserenclosure*          for the enclosure itself
 | | + supply_unit              for the separate supply unit
 | + 2mm_aluminum               to be cut in 2mm aluminum
