@@ -1,12 +1,14 @@
-# Laser4DIY_Enclosure
 
 # Laser4DIY Enclosure files
+
+![Laser4DIY Enclosure - 3D view](CAD/cad.jpg)
 
 This is the repository the enclosure used in the [Laser4DIY project](http://www.laser4diy.org/).
 
 ## Repository Layout
 
 ```
++ CAD                          directory with STEP and CAD source files
 + 3dprinting                   directory with STL files for 3d printing
 + lasercut                     directory with dxf files for (metal) laser cutting
 | + 1mm_steel                  to be cut in 1mm steel
