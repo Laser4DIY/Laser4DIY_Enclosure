@@ -17,7 +17,7 @@ This is the repository the enclosure used in the [Laser4DIY project](http://www.
 | | + supply_unit              for the separate supply unit
 | + 2mm_aluminum               to be cut in 2mm aluminum
 | | + supply_unit              for the separate supply unit
-| + 6mm_aluminum               to be cut in 6mm aluminum
+| + 8mm_aluminum               to be cut in 8mm aluminum
 | | + laserchamber*            contains file for cusotom optical bread board
 ```
 ## License
